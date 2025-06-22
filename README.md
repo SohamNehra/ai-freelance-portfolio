@@ -35,6 +35,8 @@ Prepared and structured fine-tuning datasets using real-world structured text fo
 
 ---
 
+And much more
+
 ## 📩 Contact Me
-- Email: yourname@email.com  
+- Email: sohamstark@gmail.com  
 - Fiverr / Upwork: [Add links when ready]
